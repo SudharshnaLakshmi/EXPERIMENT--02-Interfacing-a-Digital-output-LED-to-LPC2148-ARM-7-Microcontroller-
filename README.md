@@ -145,7 +145,7 @@ int main()
 
 ## Output :
 ### Before:
-![o](before.png)
+![o](https://github.com/SudharshnaLakshmi/EXPERIMENT--02-Interfacing-a-Digital-output-LED-to-LPC2148-ARM-7-Microcontroller-/blob/main/before%20.png)
 ### After:
 ![o](after.png)
  
