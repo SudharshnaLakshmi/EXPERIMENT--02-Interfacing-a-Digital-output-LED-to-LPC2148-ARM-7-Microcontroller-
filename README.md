@@ -1,14 +1,9 @@
 # EXPERIMENT 02 Interfacing a Digital output LED to LPC2148 ARM-7 Microcontroller
 
-<<<<<<< HEAD
 ## Aim
 To Interface a Digital output (LED) to LPC2148 ARM 7 and write a blink code 
-## Components required 
-=======
-## Aim:
-To Interface a Digital output (LED) to LPC2148 ARM 7 and write a blink code 
-## Components required:
->>>>>>> e23c3de27b8b263e5c84db290db8f9eae192947c
+
+## Components required
 Proteus ISIS professional suite, Kiel μ vision 5 Development environment 
 ## Theory 
 The full form of an ARM is an advanced reduced instruction set computer (RISC) machine, and it is a 32-bit processor architecture expanded by ARM holdings. The applications of an ARM processor include several microcontrollers as well as processors. The architecture of an ARM processor was licensed by many corporations for designing ARM processor-based SoC products and CPUs. This allows the corporations to manufacture their products using ARM architecture. Likewise, all main semiconductor companies will make ARM-based SOCs such as Samsung, Atmel, TI etc.
@@ -119,8 +114,6 @@ Figure -11 Hex file for simulation
 
 Step 9: Select the hex file from the Kiel program folder and import the program in to the microcontroller as shown in figure 11 ,  debug and if no errors in connections are found, run the VSM simulation to view the output.
 
-
-<<<<<<< HEAD
 ## Kiel - Program for LED blinking ON  and  OFF (blinking)
 ```
 NAME : SUDHARSHNA LAKSHMI S
@@ -128,11 +121,6 @@ REG.NO : 212221230110
 ```
 ```
 #include <lpc214x.h>
-=======
-## KIEL PROGRAM FOR LED BLINKING ON AND OFF:
-```#include <lpc214x.h>
->>>>>>> e23c3de27b8b263e5c84db290db8f9eae192947c
-
 void delay_ms(unsigned int count)
 {
   unsigned int j=0,i=0;
@@ -158,22 +146,14 @@ int main()
 }
 ```
 
-<<<<<<< HEAD
-## Output Screenshots
+## Output
 
 ### Before Blink
 ![out](before%20.png)
 
 ### After Blink
 ![out](after.png)
-=======
-## Output :
-### Before:
-![o](https://github.com/SudharshnaLakshmi/EXPERIMENT--02-Interfacing-a-Digital-output-LED-to-LPC2148-ARM-7-Microcontroller-/blob/main/before%20.png)
-### After:
-![o](after.png)
->>>>>>> e23c3de27b8b263e5c84db290db8f9eae192947c
- 
+
 ## Result
 Interfacing a digital output with ARM microcontroller is executed.
 
