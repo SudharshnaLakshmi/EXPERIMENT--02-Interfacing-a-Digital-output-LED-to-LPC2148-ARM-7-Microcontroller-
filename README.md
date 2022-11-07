@@ -154,6 +154,9 @@ int main()
 ### After Blink
 ![out](after.png)
 
+### Circuit Diagram
+![out](png.1)
+
 ## Result
 Interfacing a digital output with ARM microcontroller is executed.
 
