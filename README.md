@@ -155,7 +155,7 @@ int main()
 ![out](after.png)
 
 ### Circuit Diagram
-![out](png.1)
+![out](1.png)
 
 ## Result
 Interfacing a digital output with ARM microcontroller is executed.
